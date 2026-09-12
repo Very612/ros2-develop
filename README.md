@@ -5,7 +5,7 @@
 ![alt text](发布.png)
 ![alt text](接收.png)
 
-&emsp;&emsp;（不过此处有一个小疑问，为什么在install set_up.bash的时候会一直显示not_found?AI说在jazzy版本中的逻辑与foxy的不一致，但我是个小灯并不知道这个说法的可靠性，虽然最终解决了，不过还是想请教一下。  
+&emsp;&emsp;（不过此处有一个小疑问，为什么在install setup.bash的时候会一直显示not_found?AI说在jazzy版本中的逻辑与foxy的不一致，但我是个小灯并不知道这个说法的可靠性，虽然最终解决了，不过还是想请教一下。  
 
 ####  &#x09;   任务二的具体如下：https://github.com/Very612/Very-
 
